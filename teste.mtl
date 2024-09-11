@@ -1,0 +1,60 @@
+newmtl RAL 9007
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus/ElmTex/RAL_1_fata/RAL 9007.jpg
+
+newmtl W980_SM
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus/ElmTex/PAL_Egger/W980_SM.jpg
+
+newmtl PFL_Negru
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus/ElmTex/PLF/PFL_Negru.jpg
+
+newmtl H1180_ST37
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus/ElmTex/PAL_Egger/H1180_ST37.jpg
+
+newmtl RAL 3007
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus/ElmTex/RAL_1_fata/RAL 3007.jpg
+
+newmtl RAL 3007
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus/ElmTex/RAL_1_fata/RAL 3007.jpg
+
