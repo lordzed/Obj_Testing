@@ -1,0 +1,40 @@
+newmtl U325_ST9
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_mirror_server/ElmTex/PAL_Egger/U325_ST9.jpg
+
+newmtl Y116
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_mirror_server/ElmTex/FALCO DECOR/Y116.jpg
+
+newmtl U705_ST9
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_mirror_server/ElmTex/PAL_Egger/U705_ST9.jpg
+
+newmtl U702_ST9
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_mirror_server/ElmTex/PAL_Egger/U702_ST9.jpg
+
